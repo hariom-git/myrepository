@@ -1,0 +1,21 @@
+h1
+{
+    background-color:antiquewhite;
+    color:darkred;
+}
+h2
+{
+    background-color:beige;
+    color:darkgreen;
+}
+h3
+{
+    background-color:azure;
+    color:darkblue;
+}
+p
+{
+    color:purple;
+    font-size: 12px;
+    
+}
